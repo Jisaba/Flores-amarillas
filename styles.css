@@ -1,7 +1,5 @@
 #position{
-	position:fixed;
-	bottom:180px;
-	left:25px;
+	margin: 0 auto;
 }
 .sunflower{
     position:relative;
